@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# Credits: @HanzUserbot
+
+# Copyright (C) 2022 userbot-Pyrohanz
+
+#
+
+# This file is a part of < https://github.com/mrismanaziz/PyroMan-Userbot/ >
+
+# PLease read the GNU Affero General Public License in
+
+# <https://github.com/Hans-userboot/userbot-Pyrohanz-/blob/main/LICENSE/>.
+
+#
+
+# t.me/SharingUserbot & t.me/Lunatic0de
+
+python3 -m ProjectHanz
